@@ -1,0 +1,28 @@
+{
+    "model" : {
+        "weight" : {
+            "resent_results" : [0.13022514, 0.3111784, 0.8231691, 1.5853587, 3.464225],
+            "past_eval" : 3.715305,
+            "date_hours" : -4.864937,
+            "max_streak" : 1.8040173,
+            "max_fail_streak" : -3.6771204,
+            "test_count" : 2.198846,
+            "bias" : -2.188290596008301
+        },
+
+        "minmax" : {
+            "min_resent_results" : [0, 0, 0, 0, 0],
+            "min_past_eval" : 0.085,
+            "min_date_hours" : 1.4322,
+            "min_max_streak" : 0,
+            "min_max_fail_streak" : 0,
+            "min_test_count" : 1,
+            "max_resent_results" : [1, 1, 1, 1, 1],
+            "max_past_eval" : 0.999,
+            "max_date_hours" : 145.0314,
+            "max_max_streak" : 5.0,
+            "max_max_fail_streak" : 5.0,
+            "max_test_count" : 14.0
+        }
+    }
+}
